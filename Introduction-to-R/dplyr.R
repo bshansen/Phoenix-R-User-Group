@@ -197,11 +197,7 @@ flights = flights
   ## calculate average, min, and max distance
 
 
-#################################
-# Joins
-#################################
 
-# join the titanic data
 
 
 
